@@ -8,8 +8,8 @@ Curso: infoweb Técnico Integrado em Informática para Internet
 
 Localidade: IFRN-CNAT-DIATINF
 
-Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
+ Aluno: Jully Lopo https://github.com/Jullylopo/2023-webapp
 ## Log do projeto
 | Data | Descrição |
 | --- | --- |
